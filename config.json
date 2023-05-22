@@ -1,0 +1,83 @@
+{
+    "Projects": [
+        {
+            "ProjectName": "Headtracking OffCenterProjection with Unity3D + Kinect V2",
+            "PositionXYZ": [0, 0, 1],
+            "ImageName": "/YoutubeLogo.jpg",
+            "LinkToDocs": "https://www.youtube.com/watch?v=BAMljkQCOlM",
+            "OptionalScaleXY": [0.32, 0.18]
+        },
+        {
+            "ProjectName": "Austrian Post - VIECC 2022 - Merkur AR Game - Crypto Stamp Art",
+            "PositionXYZ": [1, 0, 1],
+            "ImageName": "/YoutubeLogo.jpg",
+            "LinkToDocs": "https://www.youtube.com/watch?v=PL0UwX41X-s",
+            "OptionalScaleXY": [0.32, 0.18]
+        },
+        {
+            "ProjectName": "Dynatrace & Microsoft HoloLens: The Future of Collaboration",
+            "PositionXYZ": [-1, 0, 1],
+            "ImageName": "/YoutubeLogo.jpg",
+            "LinkToDocs": "https://www.youtube.com/watch?v=sxNmCgyQNKg",
+            "OptionalScaleXY": [0.32, 0.18]
+        },
+        {
+            "ProjectName": "Training turnout tamping with the Unimat 3D tamping simulator",
+            "PositionXYZ": [0, 0, -1],
+            "ImageName": "/YoutubeLogo.jpg",
+            "LinkToDocs": "https://www.youtube.com/watch?v=aRUIer3miFY",
+            "OptionalScaleXY": [0.32, 0.18]
+        },
+        {
+            "ProjectName": "Github Profile",
+            "PositionXYZ": [0, 0.5, 0],
+            "ImageName": "/GitHub-Logo.png",
+            "LinkToDocs": "https://github.com/FireDragonGameStudio",
+            "OptionalScaleXY": [0.32, 0.18]
+        },
+        {
+            "ProjectName": "LinkedIn Profile",
+            "PositionXYZ": [1, 0.5, 0.5],
+            "ImageName": "/LI-Logo.png",
+            "LinkToDocs": "https://www.linkedin.com/in/markus-altenhofer-176453155/",
+            "OptionalScaleXY": [0.32, 0.18]
+        }
+    ],
+    "Sounds": [
+        {
+            "name": "backgroundSound",
+            "file": "/sounds/universe.mp3",
+            "volume": 0.03,
+            "loop": true,
+            "autoplay": false
+        },
+        {
+            "name": "flightSound",
+            "file": "/sounds/swoosh.mp3",
+            "volume": 0.1,
+            "loop": false,
+            "autoplay": false
+        },
+        {
+            "name": "clickSoundDocs",
+            "file": "/sounds/cork.mp3",
+            "volume": 0.1,
+            "loop": false,
+            "autoplay": false
+        },
+        {
+            "name": "clickSound",
+            "file": "/sounds/button.mp3",
+            "volume": 0.1,
+            "loop": false,
+            "autoplay": false
+        },
+        {
+            "name": "targetSound",
+            "file": "/sounds/woosh.mp3",
+            "volume": 0.1,
+            "loop": false,
+            "autoplay": false
+        }
+    ]
+}
